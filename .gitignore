@@ -1,0 +1,10 @@
+
+temp
+*.pickle
+*.bak
+*.txt
+*.rar
+*.tmx
+*.tsx
+
+_
